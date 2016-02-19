@@ -41,35 +41,12 @@ header{
 #logo{
   width: 40%;
   float: left;
-  color: #939393;
-  font-size: 2em;
-  font-family: "Times New Roman",sans-serif;
-}
-#logo span{
-  color: #e36565;
-}
-#logo a{
-  color: #939393;
-  font-size: 2em;
-  font-family: "Times New Roman",sans-serif;
 }
 #menuHead{
-  width: 24%;
+  width: 30%;
   float: left;
-}
-#menuHead div{
-  float: left;
-  padding: 5px;
-  background: #c8c8c8;
-  border-radius: 5px;
-  color: white;
-}
-#menuHead div:hover{
-  background: #e7e7e7;
 }
 #regAuth{
   width: 30%;
   float: left;
-  text-align: right;
-  font-size: 1.2em;
 }
