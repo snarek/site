@@ -168,3 +168,42 @@ aside{
   background-color: #f4f4f4;
   padding: 2%;
 }
+section input{
+  width: 40%;
+  margin-left: 30%;
+  float: left;
+  border-radius: 5px;
+  border: 2px solid silver;
+  padding: 5px;
+  color: black;
+  margin-top: 10px;
+  font-size: 1.2em;
+}
+section input:focus{
+  border: 2px solid #f78080;
+}
+section input #done:hover{
+  cursor: alias;
+  border: 2px solid #f8f881;
+}
+section textarea{
+  width: 50%;
+  height: 150px;
+  margin-left: 30%;
+  float: left;
+  border-radius: 5px;
+  border: 2px solid silver;
+  padding: 5px;
+  color: #afebf8;
+  margin-top: 10px;
+  font-size: 1.2em;
+  resize: none;
+}
+section textarea:focus{
+  border: 2px solid #f78080;
+}
+#messageShow{
+  font-size: 1.2em;
+  float: left;
+  color: red;
+}
